@@ -1,0 +1,18 @@
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\Tp-WinForm\negocio\bin\Debug\negocio.dll
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\Tp-WinForm\negocio\bin\Debug\negocio.pdb
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\Tp-WinForm\negocio\bin\Debug\dominio.dll
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\Tp-WinForm\negocio\bin\Debug\dominio.pdb
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\Tp-WinForm\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\Tp-WinForm\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\Tp-WinForm\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\Tp-WinForm\negocio\obj\Debug\negocio.dll
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\Tp-WinForm\negocio\obj\Debug\negocio.pdb
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\negocio\bin\Debug\negocio.dll
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\negocio\bin\Debug\negocio.pdb
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\negocio\bin\Debug\dominio.dll
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\negocio\bin\Debug\dominio.pdb
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\negocio\obj\Debug\negocio.dll
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\negocio\obj\Debug\negocio.pdb

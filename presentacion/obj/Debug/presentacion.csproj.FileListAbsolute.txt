@@ -1,0 +1,36 @@
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\Tp-WinForm\presentacion\bin\Debug\presentacion.exe.config
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\Tp-WinForm\presentacion\bin\Debug\presentacion.exe
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\Tp-WinForm\presentacion\bin\Debug\presentacion.pdb
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\Tp-WinForm\presentacion\bin\Debug\dominio.dll
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\Tp-WinForm\presentacion\bin\Debug\negocio.dll
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\Tp-WinForm\presentacion\bin\Debug\dominio.pdb
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\Tp-WinForm\presentacion\bin\Debug\negocio.pdb
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\Tp-WinForm\presentacion\obj\Debug\presentacion.csproj.AssemblyReference.cache
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\Tp-WinForm\presentacion\obj\Debug\presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\Tp-WinForm\presentacion\obj\Debug\presentacion.Properties.Resources.resources
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\Tp-WinForm\presentacion\obj\Debug\presentacion.csproj.GenerateResource.cache
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\Tp-WinForm\presentacion\obj\Debug\presentacion.csproj.CoreCompileInputs.cache
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\Tp-WinForm\presentacion\obj\Debug\presentacion.csproj.CopyComplete
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\Tp-WinForm\presentacion\obj\Debug\presentacion.exe
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\Tp-WinForm\presentacion\obj\Debug\presentacion.pdb
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\TP-Winform\presentacion\obj\Debug\presentacion.Form1.resources
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\TP-Winform\presentacion\obj\Debug\presentacion.frmAltaArticulo.resources
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\TP-Winform\presentacion\obj\Debug\presentacion.VerDetalle.resources
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\presentacion\bin\Debug\presentacion.exe.config
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\presentacion\bin\Debug\presentacion.exe
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\presentacion\bin\Debug\presentacion.pdb
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\presentacion\bin\Debug\dominio.dll
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\presentacion\bin\Debug\negocio.dll
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\presentacion\bin\Debug\dominio.pdb
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\presentacion\bin\Debug\negocio.pdb
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\presentacion\obj\Debug\presentacion.csproj.AssemblyReference.cache
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\presentacion\obj\Debug\presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\presentacion\obj\Debug\presentacion.Form1.resources
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\presentacion\obj\Debug\presentacion.frmAltaArticulo.resources
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\presentacion\obj\Debug\presentacion.Properties.Resources.resources
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\presentacion\obj\Debug\presentacion.VerDetalle.resources
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\presentacion\obj\Debug\presentacion.csproj.GenerateResource.cache
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\presentacion\obj\Debug\presentacion.csproj.CoreCompileInputs.cache
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\presentacion\obj\Debug\presentacion.csproj.CopyComplete
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\presentacion\obj\Debug\presentacion.exe
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\presentacion\obj\Debug\presentacion.pdb

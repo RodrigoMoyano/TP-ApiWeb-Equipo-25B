@@ -1,0 +1,12 @@
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\Tp-WinForm\dominio\bin\Debug\dominio.dll
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\Tp-WinForm\dominio\bin\Debug\dominio.pdb
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\Tp-WinForm\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\Tp-WinForm\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\Tp-WinForm\dominio\obj\Debug\dominio.dll
+C:\Users\rmoyano\Desktop\Universidad\Programacion 3\Tp-WinForm\dominio\obj\Debug\dominio.pdb
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\dominio\bin\Debug\dominio.dll
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\dominio\bin\Debug\dominio.pdb
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\dominio\obj\Debug\dominio.dll
+C:\Users\rmoyano\Downloads\TP-Winform\TP-Winform\dominio\obj\Debug\dominio.pdb
